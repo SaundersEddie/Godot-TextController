@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://c18u16m5tc22t"]
+
+[ext_resource type="Script" uid="uid://beevvtrftovwo" path="res://Scenes/TextController/textController.gd" id="1_dx84a"]
+[ext_resource type="FontFile" uid="uid://c53pop3400kge" path="res://Scenes/TextController/Fonts/Silkscreen-Regular.ttf" id="2_m7cqx"]
+
+[node name="TextController" type="Control" unique_id=425293250]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_dx84a")
+textFont = ExtResource("2_m7cqx")
+fontSize = 48

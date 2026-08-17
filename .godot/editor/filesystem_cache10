@@ -1,0 +1,16 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1786958093
+icon.svg::CompressedTexture2D::525654649612351399::1786955911::1786955919::1::::<><><>0<>0<>9e47eab6ee0fa681d289ced2df9d95da<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Scenes/::1786958036
+ScrollerExample.tscn::PackedScene::3673768839584785418::1786957992::0::1::::<><><>0<>0<><>::uid://bki846rjqgb7m::::res://Scenes/TextController/text_controller.tscn
+::res://Scenes/TextController/::1786958093
+textController.gd::GDScript::2676747152240038862::1786958080::0::1::::<>Control<><>0<>0<><>::
+text_controller.tscn::PackedScene::6667138186505944597::1786958080::0::1::::<><><>0<>0<><>::uid://beevvtrftovwo::::res://Scenes/TextController/textController.gd
+::res://Scenes/TextController/Fonts/::1786957971
+OFL.txt::TextFile::-1::1785736830::0::1::::<><><>0<>0<><>::
+Silkscreen-Bold.ttf::FontFile::8400539410794929820::1785736830::1786958094::1::::<><><>0<>0<>398bb24eb16eb7921d40c7be3f4afc0e<>res://.godot/imported/Silkscreen-Bold.ttf-e8adac28959628e149ebf492613ceccb.fontdata::
+Silkscreen-Regular.ttf::FontFile::6937245842103818736::1785736830::1786958094::1::::<><><>0<>0<>3f34eac8faa9db933e781d8cc5dbb7fd<>res://.godot/imported/Silkscreen-Regular.ttf-d1e3fccba92e6e3089698157088b9255.fontdata::
+::res://Scenes/TextController-Fucked/::1786958093
+README.md::TextFile::-1::1786957195::0::1::::<><><>0<>0<><>::
+text_controller.gd::GDScript::1875538312786468920::1786957321::0::1::::<>Control<><>0<>0<><>::
+text_controller.tscn::PackedScene::3106881245806506208::1786958093::0::1::::<><><>0<>0<><>::uid://1yr3vlwii88s::::res://Scenes/TextController-Fucked/text_controller.gd<>uid://c53pop3400kge::::res://Scenes/TextController/Fonts/Silkscreen-Regular.ttf

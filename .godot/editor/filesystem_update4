@@ -1,0 +1,6 @@
+res://Scenes/ScrollerExample.tscn
+res://Scenes/textScroller/textScroller.gd
+res://Scenes/TextController/text_controller.tscn
+res://Scenes/TextController/text_controller.gd
+res://Scenes/TextController/textController.gd
+res://Scenes/TextController/README.md
