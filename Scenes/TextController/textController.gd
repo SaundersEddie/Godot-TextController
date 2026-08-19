@@ -1,5 +1,6 @@
 extends Control
 
+class_name TextController
 
 enum MovementMode {
 	NONE,

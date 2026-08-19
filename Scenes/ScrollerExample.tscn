@@ -1,8 +1,10 @@
 [gd_scene format=3 uid="uid://bsluo3ci1uqpm"]
 
+[ext_resource type="Script" uid="uid://bxmnj6ypml0w8" path="res://Scenes/scroller_example.gd" id="1_de1f5"]
 [ext_resource type="PackedScene" uid="uid://c18u16m5tc22t" path="res://Scenes/TextController/text_controller.tscn" id="1_naisg"]
 
-[node name="Node2D" type="Node2D" unique_id=1305394719]
+[node name="scrollerExample" type="Node2D" unique_id=1305394719]
+script = ExtResource("1_de1f5")
 
 [node name="TextController" parent="." unique_id=425293250 instance=ExtResource("1_naisg")]
 offset_left = 416.0
